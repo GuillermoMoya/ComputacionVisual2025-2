@@ -1,0 +1,6 @@
+imagen,prompt_tipo_1,prompt_tipo_2,iou_score,objeto_detectado
+imagen_01.jpg,bbox,punto,0.0,pendiente
+imagen_02.jpg,bbox,punto,0.0,pendiente
+imagen_03.jpg,bbox,punto,0.0,pendiente
+imagen_04.jpg,bbox,punto,0.0,pendiente
+imagen_05.jpg,bbox,punto,0.0,pendiente

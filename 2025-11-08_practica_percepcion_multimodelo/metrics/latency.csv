@@ -1,0 +1,6 @@
+etapa,tiempo_promedio_ms,min_ms,max_ms,std_ms,frames_analizados
+YOLO_deteccion,0.0,0.0,0.0,0.0,50
+SAM_segmentacion,0.0,0.0,0.0,0.0,50
+MiDaS_profundidad,0.0,0.0,0.0,0.0,50
+MediaPipe_landmarks,0.0,0.0,0.0,0.0,50
+Pipeline_total,0.0,0.0,0.0,0.0,50

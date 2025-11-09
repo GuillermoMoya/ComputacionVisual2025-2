@@ -1,0 +1,19 @@
+# Enlaces a Notebooks de Google Colab
+
+## YOLO - Detección de Objetos
+URL: [https://colab.research.google.com/drive/1dTTcQSHq-n8kYsSbzYUMddamkL2OXK4w?usp=sharing]
+
+## MediaPipe - Landmarks y Gestos
+URL: [https://colab.research.google.com/drive/1mvnCq4RE-L5oE4O22ec4_96_Z8-QlIBn?usp=sharing]
+
+## MiDaS - Profundidad Monocular
+URL: [https://colab.research.google.com/drive/1P0evLD7za6gllyzSpTh53G1HHRqbty6G?usp=sharing]
+
+## SAM - Segmentación Interactiva
+URL: [https://colab.research.google.com/drive/1y2bffG9H0wz4BGooWbtUFpoeoPVqqFYh#scrollTo=e0Ts3OZ3MuzP]
+
+## Pipeline Integrado
+URL: [https://colab.research.google.com/drive/1DrU3L3Bl63suxjKSBmycOsouI6y7rgq-?usp=sharing]
+
+## Reto Creativo
+URL: [https://colab.research.google.com/drive/1DJ_gdF8HJPCXm0O6_lE0i0W198ZqB2hG#scrollTo=ded173ef]
